@@ -1,0 +1,15 @@
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\bin\Debug\net10.0\RecorridoInverso.exe
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\bin\Debug\net10.0\RecorridoInverso.deps.json
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\bin\Debug\net10.0\RecorridoInverso.runtimeconfig.json
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\bin\Debug\net10.0\RecorridoInverso.dll
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\bin\Debug\net10.0\RecorridoInverso.pdb
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\obj\Debug\net10.0\RecorridoInverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\obj\Debug\net10.0\RecorridoInverso.AssemblyInfoInputs.cache
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\obj\Debug\net10.0\RecorridoInverso.AssemblyInfo.cs
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\obj\Debug\net10.0\RecorridoInverso.csproj.CoreCompileInputs.cache
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\obj\Debug\net10.0\RecorridoInverso.sourcelink.json
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\obj\Debug\net10.0\RecorridoInverso.dll
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\obj\Debug\net10.0\refint\RecorridoInverso.dll
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\obj\Debug\net10.0\RecorridoInverso.pdb
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\obj\Debug\net10.0\RecorridoInverso.genruntimeconfig.cache
+C:\Users\cheto\Desktop\EDD\C#\RecorridoInverso\obj\Debug\net10.0\ref\RecorridoInverso.dll
