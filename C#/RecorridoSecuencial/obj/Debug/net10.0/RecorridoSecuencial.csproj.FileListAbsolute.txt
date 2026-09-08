@@ -1,0 +1,15 @@
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\bin\Debug\net10.0\RecorridoSecuencial.exe
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\bin\Debug\net10.0\RecorridoSecuencial.deps.json
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\bin\Debug\net10.0\RecorridoSecuencial.runtimeconfig.json
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\bin\Debug\net10.0\RecorridoSecuencial.dll
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\bin\Debug\net10.0\RecorridoSecuencial.pdb
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\obj\Debug\net10.0\RecorridoSecuencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\obj\Debug\net10.0\RecorridoSecuencial.AssemblyInfoInputs.cache
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\obj\Debug\net10.0\RecorridoSecuencial.AssemblyInfo.cs
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\obj\Debug\net10.0\RecorridoSecuencial.csproj.CoreCompileInputs.cache
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\obj\Debug\net10.0\RecorridoSecuencial.sourcelink.json
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\obj\Debug\net10.0\RecorridoSecuencial.dll
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\obj\Debug\net10.0\refint\RecorridoSecuencial.dll
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\obj\Debug\net10.0\RecorridoSecuencial.pdb
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\obj\Debug\net10.0\RecorridoSecuencial.genruntimeconfig.cache
+C:\Users\cheto\Desktop\EDD\C#\RecorridoSecuencial\obj\Debug\net10.0\ref\RecorridoSecuencial.dll

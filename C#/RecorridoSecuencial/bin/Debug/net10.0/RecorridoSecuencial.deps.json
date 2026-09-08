@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "C#/1.0.0": {
+      "RecorridoSecuencial/1.0.0": {
         "runtime": {
-          "C#.dll": {}
+          "RecorridoSecuencial.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "C#/1.0.0": {
+    "RecorridoSecuencial/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

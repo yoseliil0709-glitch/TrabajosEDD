@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\C#.csproj": {}
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoSecuencial\\RecorridoSecuencial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\C#.csproj": {
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoSecuencial\\RecorridoSecuencial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\C#.csproj",
-        "projectName": "C#",
-        "projectPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoSecuencial\\RecorridoSecuencial.csproj",
+        "projectName": "RecorridoSecuencial",
+        "projectPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoSecuencial\\RecorridoSecuencial.csproj",
         "packagesPath": "C:\\Users\\cheto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\obj\\",
+        "outputPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoSecuencial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheto\\AppData\\Roaming\\NuGet\\NuGet.Config"
