@@ -1,4 +1,3 @@
-# Implementación en Python
 def findEle(inpuptArr, s, targetEle):
     for j in range(s):
         if (inpuptArr[j] == targetEle): # aplicando búsqueda lineal

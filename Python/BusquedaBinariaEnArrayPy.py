@@ -1,4 +1,3 @@
-# Implementación en Python - Búsqueda Binaria
 def findEle(arr, l, h, targetValue):
     while l <= h:
         mid = l + (h - l) // 2
@@ -19,7 +18,7 @@ if __name__ == '__main__':
     targetElement = 40 # elemento objetivo a encontrar
     s = len(inputArr) # tamaño del array
     # operación de búsqueda
-    # IMPORTANTE: Para binaria el array debe estar ordenado
+    
     inputArr.sort()
     idx = findEle(inputArr, 0, s - 1, targetElement)
     if idx!= -1:

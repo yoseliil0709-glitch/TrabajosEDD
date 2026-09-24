@@ -1,7 +1,7 @@
-# Implementación en Python
-# Programa para eliminar un elemento al principio de un array
 inputArr = [11, 21, 31, 41, 51, 61]
+
 print("Antes de la eliminación, el array es: ")
+
 for j in range(len(inputArr)):
     print(inputArr[j], end=" ")
 
@@ -9,5 +9,6 @@ for j in range(len(inputArr)):
 inputArr.pop(0) # o del inputArr[0]
 
 print("\nDespués de la eliminación, el array es: ")
+
 for j in range(len(inputArr)):
     print(inputArr[j], end=" ")
