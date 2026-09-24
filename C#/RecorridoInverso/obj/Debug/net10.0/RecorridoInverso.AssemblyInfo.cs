@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecorridoInverso")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6f8b2f55f04c4afa9675d1caf393cdb67133a1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bda9907f74ae5e435b4b2d61bc1c788422284c21")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecorridoInverso")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecorridoInverso")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
