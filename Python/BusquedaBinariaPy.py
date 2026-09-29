@@ -1,4 +1,3 @@
-# Implementación en Python - Búsqueda Binaria
 def findEle(arr, l, h, targetValue):
     while l <= h:
         mid = l + (h - l) // 2
