@@ -1,5 +1,4 @@
-public class Main {
-
+public class RecorridoInverso {
     public static void main(String[] args) {
 
         int[] arr = {40, 50, 60, 70, 80, 90};
