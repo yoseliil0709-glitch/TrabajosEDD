@@ -23,7 +23,7 @@ int main() {
     cout << "Antes de ordenar los elementos del arreglo: " << endl;
     printArr(a, n);
     insertionSort(a, n);
-    cout << "\nDespues de arreglos los elementos del arreglo son: " << endl;
+    cout << "\nDespues de ordenar los elementos del arreglo son: " << endl;
     printArr(a, n);
     return 0;
 }
