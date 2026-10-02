@@ -1,4 +1,4 @@
-public class Main {
+public class SeleccionSort {
     static void selectionSort(int[] a) {
         int n = a.length;
         for (int i = 0; i < n-1; i++) {

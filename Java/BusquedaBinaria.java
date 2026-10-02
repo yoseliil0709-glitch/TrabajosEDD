@@ -1,6 +1,5 @@
 import java.util.Arrays;
-
-public class Main {
+public class BusquedaBinaria {
 
     public static int findEle(int[] arr, int l, int h, int targetValue) {
         while (l <= h) {
@@ -18,7 +17,6 @@ public class Main {
                 h = mid - 1;
             }
         }
-
         return -1;
     }
 

@@ -1,4 +1,4 @@
-public class Main {
+public class insersionSort {
     static void insertionSort(int[] a) {
         for (int i = 1; i < a.length; i++) {
             int temp = a[i];

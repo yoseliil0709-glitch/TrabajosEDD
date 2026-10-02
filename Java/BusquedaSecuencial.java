@@ -1,4 +1,4 @@
-public class Main {
+public class BusquedaSecuencial {
     public static void main(String[] args) {
         int[] arr = {12, 34, 10, 6, 40, 89, 98};
         int target = 40;

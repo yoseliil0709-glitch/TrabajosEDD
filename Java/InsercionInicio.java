@@ -1,4 +1,4 @@
-public class Main {
+public class InsercionInicio {
     public static void main(String[] args) {
         int[] inputArr = {11, 21, 31, 41, 51, 61};
         int ele = 52;

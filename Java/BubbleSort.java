@@ -1,4 +1,4 @@
-public class Main {
+public class BubbleSort {
     static void bubbleSort(int[] a) {
         int s = a.length;
         for (int i = 0; i < s; i++) {

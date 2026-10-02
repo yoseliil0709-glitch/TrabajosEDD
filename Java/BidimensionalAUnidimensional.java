@@ -1,4 +1,4 @@
-public class Main {
+public class BidimensionalAUnidimensional {
     public static void main(String[] args) {
         int r = 3, c = 3;
         int[] arr = new int[r * c];

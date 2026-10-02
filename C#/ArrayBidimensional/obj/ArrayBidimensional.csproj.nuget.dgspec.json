@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensional\\ArrayBidimensional.csproj": {}
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensional\\ArrayBidimensional.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensional\\ArrayBidimensional.csproj": {
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensional\\ArrayBidimensional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensional\\ArrayBidimensional.csproj",
+        "projectUniqueName": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensional\\ArrayBidimensional.csproj",
         "projectName": "ArrayBidimensional",
-        "projectPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensional\\ArrayBidimensional.csproj",
+        "projectPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensional\\ArrayBidimensional.csproj",
         "packagesPath": "C:\\Users\\cheto\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensional\\obj\\",
+        "outputPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensional\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheto\\AppData\\Roaming\\NuGet\\NuGet.Config"

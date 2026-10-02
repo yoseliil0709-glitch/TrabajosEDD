@@ -1,4 +1,4 @@
-public class Main {
+public class EliminacionUnElementoFinal {
     public static void main(String[] args) {
 
         int[] inputArr = {11, 21, 31, 41, 51, 61};

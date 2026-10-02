@@ -1,4 +1,4 @@
-public class Main {
+public class EliminacionAlFinal {
     public static void main(String[] args) {
         int[] arr = {11, 21, 31, 41, 51, 61};
         int size = 6;

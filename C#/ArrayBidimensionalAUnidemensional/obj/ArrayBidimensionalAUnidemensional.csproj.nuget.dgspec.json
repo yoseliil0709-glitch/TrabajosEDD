@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensionalAUnidemensional\\ArrayBidimensionalAUnidemensional.csproj": {}
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensionalAUnidemensional\\ArrayBidimensionalAUnidemensional.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensionalAUnidemensional\\ArrayBidimensionalAUnidemensional.csproj": {
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensionalAUnidemensional\\ArrayBidimensionalAUnidemensional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensionalAUnidemensional\\ArrayBidimensionalAUnidemensional.csproj",
+        "projectUniqueName": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensionalAUnidemensional\\ArrayBidimensionalAUnidemensional.csproj",
         "projectName": "ArrayBidimensionalAUnidemensional",
-        "projectPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensionalAUnidemensional\\ArrayBidimensionalAUnidemensional.csproj",
+        "projectPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensionalAUnidemensional\\ArrayBidimensionalAUnidemensional.csproj",
         "packagesPath": "C:\\Users\\cheto\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensionalAUnidemensional\\obj\\",
+        "outputPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\ArrayBidimensionalAUnidemensional\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheto\\AppData\\Roaming\\NuGet\\NuGet.Config"
