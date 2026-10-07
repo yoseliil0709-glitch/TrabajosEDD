@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecorridoDeUnArrayBidimensional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+946ad7bbc1c0832a2a6891912d2558c0ffe13936")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8355e7bd5ba88e0e8670059744bbbdd15f975a3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecorridoDeUnArrayBidimensional")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecorridoDeUnArrayBidimensional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

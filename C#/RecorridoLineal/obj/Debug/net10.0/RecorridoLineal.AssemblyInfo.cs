@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecorridoLineal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+066888495b5f4cd062a5f29f320cb2fd2baf1005")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8355e7bd5ba88e0e8670059744bbbdd15f975a3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecorridoLineal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecorridoLineal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

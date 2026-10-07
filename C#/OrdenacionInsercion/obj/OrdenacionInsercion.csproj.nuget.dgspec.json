@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenacionInsercion\\OrdenacionInsercion.csproj": {}
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenacionInsercion\\OrdenacionInsercion.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenacionInsercion\\OrdenacionInsercion.csproj": {
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenacionInsercion\\OrdenacionInsercion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenacionInsercion\\OrdenacionInsercion.csproj",
+        "projectUniqueName": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenacionInsercion\\OrdenacionInsercion.csproj",
         "projectName": "OrdenacionInsercion",
-        "projectPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenacionInsercion\\OrdenacionInsercion.csproj",
+        "projectPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenacionInsercion\\OrdenacionInsercion.csproj",
         "packagesPath": "C:\\Users\\cheto\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenacionInsercion\\obj\\",
+        "outputPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenacionInsercion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheto\\AppData\\Roaming\\NuGet\\NuGet.Config"

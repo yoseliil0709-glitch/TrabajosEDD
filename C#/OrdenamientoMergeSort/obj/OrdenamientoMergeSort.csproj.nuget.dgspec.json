@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoMergeSort\\OrdenamientoMergeSort.csproj": {}
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoMergeSort\\OrdenamientoMergeSort.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoMergeSort\\OrdenamientoMergeSort.csproj": {
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoMergeSort\\OrdenamientoMergeSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoMergeSort\\OrdenamientoMergeSort.csproj",
+        "projectUniqueName": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoMergeSort\\OrdenamientoMergeSort.csproj",
         "projectName": "OrdenamientoMergeSort",
-        "projectPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoMergeSort\\OrdenamientoMergeSort.csproj",
+        "projectPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoMergeSort\\OrdenamientoMergeSort.csproj",
         "packagesPath": "C:\\Users\\cheto\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoMergeSort\\obj\\",
+        "outputPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoMergeSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheto\\AppData\\Roaming\\NuGet\\NuGet.Config"

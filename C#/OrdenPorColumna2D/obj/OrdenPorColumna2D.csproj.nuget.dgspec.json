@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenPorColumna2D\\OrdenPorColumna2D.csproj": {}
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenPorColumna2D\\OrdenPorColumna2D.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenPorColumna2D\\OrdenPorColumna2D.csproj": {
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenPorColumna2D\\OrdenPorColumna2D.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenPorColumna2D\\OrdenPorColumna2D.csproj",
+        "projectUniqueName": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenPorColumna2D\\OrdenPorColumna2D.csproj",
         "projectName": "OrdenPorColumna2D",
-        "projectPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenPorColumna2D\\OrdenPorColumna2D.csproj",
+        "projectPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenPorColumna2D\\OrdenPorColumna2D.csproj",
         "packagesPath": "C:\\Users\\cheto\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenPorColumna2D\\obj\\",
+        "outputPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenPorColumna2D\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheto\\AppData\\Roaming\\NuGet\\NuGet.Config"

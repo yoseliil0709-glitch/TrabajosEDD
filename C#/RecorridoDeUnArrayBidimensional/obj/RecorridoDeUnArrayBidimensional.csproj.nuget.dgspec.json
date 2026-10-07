@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoDeUnArrayBidimensional\\RecorridoDeUnArrayBidimensional.csproj": {}
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoDeUnArrayBidimensional\\RecorridoDeUnArrayBidimensional.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoDeUnArrayBidimensional\\RecorridoDeUnArrayBidimensional.csproj": {
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoDeUnArrayBidimensional\\RecorridoDeUnArrayBidimensional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoDeUnArrayBidimensional\\RecorridoDeUnArrayBidimensional.csproj",
+        "projectUniqueName": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoDeUnArrayBidimensional\\RecorridoDeUnArrayBidimensional.csproj",
         "projectName": "RecorridoDeUnArrayBidimensional",
-        "projectPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoDeUnArrayBidimensional\\RecorridoDeUnArrayBidimensional.csproj",
+        "projectPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoDeUnArrayBidimensional\\RecorridoDeUnArrayBidimensional.csproj",
         "packagesPath": "C:\\Users\\cheto\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoDeUnArrayBidimensional\\obj\\",
+        "outputPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\RecorridoDeUnArrayBidimensional\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheto\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoBurbuja\\OrdenamientoBurbuja.csproj": {}
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoBurbuja\\OrdenamientoBurbuja.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoBurbuja\\OrdenamientoBurbuja.csproj": {
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoBurbuja\\OrdenamientoBurbuja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoBurbuja\\OrdenamientoBurbuja.csproj",
+        "projectUniqueName": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoBurbuja\\OrdenamientoBurbuja.csproj",
         "projectName": "OrdenamientoBurbuja",
-        "projectPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoBurbuja\\OrdenamientoBurbuja.csproj",
+        "projectPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoBurbuja\\OrdenamientoBurbuja.csproj",
         "packagesPath": "C:\\Users\\cheto\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoBurbuja\\obj\\",
+        "outputPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\OrdenamientoBurbuja\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheto\\AppData\\Roaming\\NuGet\\NuGet.Config"
