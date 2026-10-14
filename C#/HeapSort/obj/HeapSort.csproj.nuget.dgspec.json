@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\HeapSort\\HeapSort.csproj": {}
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\HeapSort\\HeapSort.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cheto\\Desktop\\EDD\\C#\\HeapSort\\HeapSort.csproj": {
+    "C:\\Users\\cheto\\Desktop\\EDD\\C#\\HeapSort\\HeapSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\HeapSort\\HeapSort.csproj",
+        "projectUniqueName": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\HeapSort\\HeapSort.csproj",
         "projectName": "HeapSort",
-        "projectPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\HeapSort\\HeapSort.csproj",
+        "projectPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\HeapSort\\HeapSort.csproj",
         "packagesPath": "C:\\Users\\cheto\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cheto\\Desktop\\EDD\\C#\\HeapSort\\obj\\",
+        "outputPath": "C:\\Users\\cheto\\Desktop\\EDD\\C#\\HeapSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheto\\AppData\\Roaming\\NuGet\\NuGet.Config"

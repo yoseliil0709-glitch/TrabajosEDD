@@ -1,5 +1,4 @@
 ﻿using System;
-
 class Program
 {
     static int findEle(int[] inpuptArr, int s, int targetEle)
