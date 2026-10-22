@@ -1,0 +1,15 @@
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\bin\Debug\net10.0\BusquedaBinaria.exe
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\bin\Debug\net10.0\BusquedaBinaria.deps.json
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\bin\Debug\net10.0\BusquedaBinaria.runtimeconfig.json
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\bin\Debug\net10.0\BusquedaBinaria.dll
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\bin\Debug\net10.0\BusquedaBinaria.pdb
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.AssemblyInfoInputs.cache
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.AssemblyInfo.cs
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.csproj.CoreCompileInputs.cache
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.sourcelink.json
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.dll
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\obj\Debug\net10.0\refint\BusquedaBinaria.dll
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.pdb
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\obj\Debug\net10.0\BusquedaBinaria.genruntimeconfig.cache
+c:\Users\cheto\Desktop\EDD\C#\BusquedaBinaria\obj\Debug\net10.0\ref\BusquedaBinaria.dll

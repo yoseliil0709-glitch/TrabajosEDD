@@ -1,0 +1,11 @@
+public class EliminacionAlFinal {
+    public static void main(String[] args) {
+        int[] arr = {11, 21, 31, 41, 51, 61};
+        int size = 6;
+        for (int i = 0; i < size - 1; i++) {
+            arr[i] = arr[i+1];
+        }
+        size--;
+        for (int i = 0; i < size; i++) System.out.print(arr[i] + " ");
+    }
+}
